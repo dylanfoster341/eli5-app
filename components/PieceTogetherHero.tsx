@@ -400,7 +400,7 @@ export default function PieceTogetherHero() {
         <div className="pt-copy">
           <h1>Explain It Like I&apos;m 5</h1>
           <p className="pt-sub">
-            Drop in anything confusing. Watch the pieces click into place — and the picture lights up.
+            Confusing topic? Drop it in and watch it click into place.
           </p>
         </div>
 
